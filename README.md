@@ -1,5 +1,9 @@
 ### Hey, I'm James.
 
+I'm currently diving deep into JS and Go. 
+
+Join me for the ride!
+
 <!--
 **JWBlash/jwblash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
