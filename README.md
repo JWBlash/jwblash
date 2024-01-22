@@ -1,6 +1,6 @@
 ### Hey, I'm James.
 
-I'm currently diving deep into JS and Go. 
+I'm currently diving deep into C/C++ and Go. 
 
 Join me for the ride!
 
