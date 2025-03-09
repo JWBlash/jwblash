@@ -1,6 +1,6 @@
 ### Hey, I'm James.
 
-I'm currently diving deep into C/C++ and Go. 
+I write programs in Go, Python, Zig, and GDScript. Maybe sometimes C if I feel like it.
 
 Join me for the ride!
 
