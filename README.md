@@ -1,6 +1,6 @@
 ### Hey, I'm James.
 
-I write programs in Go, Python, Zig, and GDScript. Maybe sometimes C if I feel like it.
+I write programs in Go, Python, and most recently, Zig.
 
 Join me for the ride!
 
